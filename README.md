@@ -109,6 +109,12 @@ Figure 10:ma base de donnes
 
 
 
+https://github.com/user-attachments/assets/55b3c67d-67cb-43f0-856a-ca65f14145c1
+
+
+
+
+
 
 
 
