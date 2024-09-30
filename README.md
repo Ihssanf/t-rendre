@@ -56,6 +56,8 @@ Le projet contient les classes suivantes :
    - Calcul et affichage du nombre total de scripts réalisés au cours de la semaine.
    - Demande à l'utilisateur d'entrer un nom de développeur pour voir combien de scripts ce développeur a réalisés.
    - Permet à l'utilisateur d'exécuter une requête SQL personnalisée.
+   - ![image](https://github.com/user-attachments/assets/04eeb799-6f82-4ada-83d3-d3c426f97728)
+
 
 
 
