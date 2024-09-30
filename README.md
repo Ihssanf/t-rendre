@@ -62,34 +62,45 @@ Figure 1:classe DriverManager
 
 ![image](https://github.com/user-attachments/assets/317de778-93fb-4188-b693-114f5ea70673)
 ![image](https://github.com/user-attachments/assets/00735445-a213-479b-88dc-96a398051888)
+
 Figure 2:creatio et initialisation de la table DevData
 
 ![image](https://github.com/user-attachments/assets/471c780d-f6be-4957-a9c8-1b5473cc1516)
+
 Figure 3:maximum de scripts en une journée
 
 ![image](https://github.com/user-attachments/assets/e7eaef4c-b317-4f28-860f-3374d9546e37)
+
 Figure 4:•	la liste des personnes triée dans l’ordre décroissant selon leur nombre de scripts
 
 ![image](https://github.com/user-attachments/assets/bd2878fe-c52b-42b4-80e9-253a24f5a0a2)
+
 Figure 5:calcule et affichage le nombre total de scripts réalisés en une semaine
 
 ![image](https://github.com/user-attachments/assets/813eec30-2e44-4fec-9258-ccdbb44e0aee)
+
 Figure 6:calculer pour un programmeur donné le nombre total de scripts réalisés.
 
 ![image](https://github.com/user-attachments/assets/ba17b6d6-8600-44b6-ade7-bc3be553c0be)
 ![image](https://github.com/user-attachments/assets/747e4b36-ebfa-4ed7-b8d8-0172b793c5d6)
+
 Figure 7:exécuter une requête SQL
 
 ![image](https://github.com/user-attachments/assets/8bd9699a-57cb-4a97-b7b0-24a83c404853)
 ![image](https://github.com/user-attachments/assets/67290219-ff0b-4986-a57c-5c99de03bac3)
+
 Figure 8:la methode main
 
 ![image](https://github.com/user-attachments/assets/7b13d540-bef2-40c7-971e-e53116d0140d)
 ![image](https://github.com/user-attachments/assets/ffa013b5-316a-49a7-9e1f-bfddb8feb54b)
+
 Figure 9:resultat finale lors de l'execution
 
 ![image](https://github.com/user-attachments/assets/40f51aaf-5bc8-4f3d-8a3c-a2dde43a0516)
+
 Figure 10:ma base de donnes
+
+
 
 
 
