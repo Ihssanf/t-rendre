@@ -2,7 +2,7 @@ Projet MySQL JDBC
 
 Ce projet démontre l'utilisation de JDBC pour interagir avec une base de données MySQL. Le programme se connecte à une base de données, crée une table, insère des données, et exécute diverses requêtes SQL pour extraire des informations et afficher des résultats dans la console.
 
- Fonctionnalités
+# Fonctionnalités
 - Connexion à une base de données MySQL.
 - Création d'une table `DevData` si elle n'existe pas.
 - Insertion de données représentant des développeurs et le nombre de scripts qu'ils ont réalisés sur différentes journées.
